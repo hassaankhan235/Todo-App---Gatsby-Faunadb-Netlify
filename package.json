@@ -1,0 +1,12 @@
+{
+  "name": "Todo-App---Gatsby-Faunadb-Netlify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hassaankhan235/Todo-App---Gatsby-Faunadb-Netlify.git",
+  "author": "hassaankhan235 <hassaankhan235@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "packages/*"
+  ]
+}
