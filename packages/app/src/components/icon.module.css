@@ -1,0 +1,13 @@
+.icon{
+    padding-left: 10px;
+    color: white;
+    cursor: pointer;
+}
+.icon:hover{
+    color: brown;
+}
+.iconTray{
+    display: flex;
+    margin-left: auto;
+    margin-right: 2%;
+}
