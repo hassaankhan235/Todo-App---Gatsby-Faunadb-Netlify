@@ -1,0 +1,20 @@
+.inputBox{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    margin-left: auto;
+    margin-top: 5px;
+    background-color: #c493e2;
+    border-radius: 5px; 
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: x-large;
+    width: 20%;
+}
+.btn:hover{
+    color: brown;
+}
