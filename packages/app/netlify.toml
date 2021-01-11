@@ -1,7 +1,7 @@
 [build]
     command = 'gatsby build'
-    functions = "Functions"
-    publish = 'public'
+    functions = "Functions/"
+    publish = 'public/'
 
 [[redirects]]
    from = "/app/*"
