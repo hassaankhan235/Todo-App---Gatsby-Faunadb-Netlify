@@ -2,3 +2,8 @@
     command = 'gatsby build'
     functions = "Functions"
     publish = 'public'
+
+[[redirects]]
+   from = "/app/*"
+   to = "/.netlify/functions/:splat"
+   status = 200
